@@ -32,6 +32,12 @@
                 entry = "${pkgs.lib.getExe pkgs.packwiz} refresh";
                 pass_filenames = false;
               };
+              replace-server-with-both = {
+                enable = true;
+                name = ''Replace "server" side with "both", as server is always wrong'';
+                entry = ''${pkgs.lib.getExe pkgs.sd} 'side = "server"' 'side = "both"' '';
+                files = ''\.pw\.toml$'';
+              };
             };
           };
         };
@@ -45,6 +51,7 @@
             pkgs.packwiz
             pkgs.taplo
             pkgs.vscode-langservers-extracted
+            pkgs.sd
           ];
         };
       }
