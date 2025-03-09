@@ -1,0 +1,13 @@
+name = "Aether Data Pack: Temporary Freezing"
+filename = "Aether-Freezing-Recipes.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/XoeJ8QZA/versions/87ygrRFc/Aether-Freezing-Recipes.zip"
+hash-format = "sha512"
+hash = "f20ce3514e3ee426f9b2670b36a12e20be4e3608f3961f0ec908f0b545970ac119982556c8c447369651246b674b3b9150296a81131e9aa08cf6d24d0223a940"
+
+[update]
+[update.modrinth]
+mod-id = "XoeJ8QZA"
+version = "87ygrRFc"

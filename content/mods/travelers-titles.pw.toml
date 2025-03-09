@@ -1,0 +1,13 @@
+name = "Traveler's Titles"
+filename = "TravelersTitles-1.21.1-NeoForge-5.1.2.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/JtifUr64/versions/OLbxQrMO/TravelersTitles-1.21.1-NeoForge-5.1.2.jar"
+hash-format = "sha512"
+hash = "7ec0f48a2673df5b8414cc8da97074fe4cc1ce777437214175d21045b2452c22968343f62be6e65a954e15286961f3f186269c2e57100952f071d1386f1ab9e6"
+
+[update]
+[update.modrinth]
+mod-id = "JtifUr64"
+version = "OLbxQrMO"

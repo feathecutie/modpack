@@ -1,0 +1,13 @@
+name = "KeybindHider"
+filename = "keybindhider-neoforge-1.21-1.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/MVgNXRxk/versions/MdG9Ksgj/keybindhider-neoforge-1.21-1.0.jar"
+hash-format = "sha512"
+hash = "9fed04348177e338318931deb974e05fc940fc772a9a58c0d075cd4a55efb09fa1d8f06c1583751d8cbb6f861b59740b306ae953ee21d06e3d3f3ace505c4e1b"
+
+[update]
+[update.modrinth]
+mod-id = "MVgNXRxk"
+version = "MdG9Ksgj"

@@ -1,0 +1,17 @@
+name = "Meow"
+author = "fea"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "./content/index.toml"
+hash-format = "sha256"
+hash = "694fe29b95cf475d6fa91c642125ab8831ee1d3d15b2e36a0a4950f92e1e06d3"
+
+[versions]
+minecraft = "1.21.1"
+neoforge = "21.1.128"
+
+[options]
+datapack-folder = "config/paxi/datapacks"
+meta-folder-base = "./content"

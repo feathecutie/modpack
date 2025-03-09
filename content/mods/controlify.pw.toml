@@ -1,0 +1,13 @@
+name = "Controlify"
+filename = "controlify-2.0.1+1.21-neoforge.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/DOUdJVEm/versions/EDbEKFiE/controlify-2.0.1%2B1.21-neoforge.jar"
+hash-format = "sha512"
+hash = "e4b3b312cb4e6d71f7a57581b052bf7c0397ae4894c0fd27b58a61d17d2cf2f2ef3d1b65344b3ff3fe720ce510d4e8afe34ae0d3f6e8330ba9f608d27e99a838"
+
+[update]
+[update.modrinth]
+mod-id = "DOUdJVEm"
+version = "EDbEKFiE"

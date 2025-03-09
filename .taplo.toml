@@ -1,0 +1,10 @@
+[[rule]]
+include = ["pack.toml"]
+
+[rule.schema]
+path = "./.pack.toml.schema.json"
+
+[[rule]]
+include = ["**/*.pw.toml"]
+
+[rule.schema]
