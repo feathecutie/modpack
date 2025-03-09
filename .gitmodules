@@ -1,0 +1,4 @@
+[submodule "packwiz-schemas"]
+	path = packwiz-schemas
+	url = https://github.com/dalbitresb12/schemastore
+	branch = packwiz-schemas

@@ -2,9 +2,16 @@
 include = ["pack.toml"]
 
 [rule.schema]
-path = "./.pack.toml.schema.json"
+path = "./packwiz-schemas/src/schemas/json/packwiz-pack.json"
 
 [[rule]]
 include = ["**/*.pw.toml"]
 
 [rule.schema]
+path = "./packwiz-schemas/src/schemas/json/packwiz-mod.json"
+
+[[rule]]
+include = ["**/index.toml"]
+
+[rule.schema]
+path = "./packwiz-schemas/src/schemas/json/packwiz-index.json"
