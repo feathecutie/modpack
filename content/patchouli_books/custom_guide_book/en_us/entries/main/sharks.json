@@ -1,12 +1,8 @@
 {
-  "name": "Test entry",
-  "icon": "minecraft:writable_book",
-  "category": "patchouli:test_category",
+  "name": "Sharks!",
+  "icon": "shorkie:best_sharkie",
+  "category": "patchouli:main_category",
   "pages": [
-    {
-      "type": "patchouli:text",
-      "text": "This is a test entry, meow!"
-    },
     {
       "type": "patchouli:spotlight",
       "item": "shorkie:best_sharkie",

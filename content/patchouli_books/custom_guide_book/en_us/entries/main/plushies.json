@@ -1,0 +1,13 @@
+{
+    "name": "cuddle <3",
+    "icon": "plushies:red_fox_plushie",
+    "category": "patchouli:main_category",
+    "pages": [
+      {
+        "type": "patchouli:spotlight",
+        "item": "plushies:red_fox_plushie,plushies:panda_plushie,plushies:axolotl_plushie",
+        "text": "There also are lots of cute plushies!(br)I can't display them here all, so look them up with @plushies."
+      }
+    ]
+  }
+  

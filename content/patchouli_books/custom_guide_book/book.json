@@ -3,5 +3,6 @@
   "landing_text": "Have fun being gay (and playing minecraft ig)",
   "version": 1,
   "creative_tab": "minecraft:tools_and_utilities",
-  "use_resource_pack": true
+  "use_resource_pack": true,
+  "pamphlet": true
 }

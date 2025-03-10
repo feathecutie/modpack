@@ -5,6 +5,10 @@ file = "config/cumulus_menus-client.toml"
 hash = "375145dd6c3ad1554b4a0dfe8ca87d266e668a2d9e7775305edb6f7c6496df46"
 
 [[files]]
+file = "config/gravestone-server.toml"
+hash = "d06d422097625b3479c55638123d5714989fd5a608e01b70dbe2faecdcda16bd"
+
+[[files]]
 file = "config/keybindhider.json"
 hash = "178114d07a35524ef6696f557dbbc573bc6b4f0e7d694da6d96fa5d99a6c72de"
 
@@ -351,6 +355,16 @@ metafile = true
 [[files]]
 file = "mods/goblin-traders.pw.toml"
 hash = "ef6367468d1b93c3024b40b1b927243d23f6ae6b38665d576c57dbfdda2049cc"
+metafile = true
+
+[[files]]
+file = "mods/gravestone-mod.pw.toml"
+hash = "c34ad41e351235b1ca8e026e9fba9b3ee01c42e4933b060f0c870aac3014403a"
+metafile = true
+
+[[files]]
+file = "mods/gravestone-x-curios-api-compat.pw.toml"
+hash = "1f7a64928c6bc48acdffd70a39c303565601bfee5f75cc662b7714e35aeceda2"
 metafile = true
 
 [[files]]
@@ -860,15 +874,19 @@ metafile = true
 
 [[files]]
 file = "patchouli_books/custom_guide_book/book.json"
-hash = "924e11c9ffb398e3f608a86e9e4f7966983124b32634e555fcb646809bbd8830"
+hash = "f8033cd298f992184c2051aef66fe67513776f781e18bf75b48467184f9c664a"
 
 [[files]]
-file = "patchouli_books/custom_guide_book/en_us/categories/test_category.json"
-hash = "8cbdd5917745d4fff9eca33d6b7f2d8c1c6e3a4d981a0360398f6fd5b98203d6"
+file = "patchouli_books/custom_guide_book/en_us/categories/main_category.json"
+hash = "27c2db1d420a2b3f11ce86bb7f56a638eb20988f1682aa27314ff4594b933c1a"
 
 [[files]]
-file = "patchouli_books/custom_guide_book/en_us/entries/test/test_entry.json"
-hash = "a10b38f0cc01ce06966d94ca7ee5217503cef9f2bd21e5aad907f26322773b32"
+file = "patchouli_books/custom_guide_book/en_us/entries/main/plushies.json"
+hash = "d9430150d84a2a01191000a72489d8dc0108879202e04e0667106edf8ed7aebc"
+
+[[files]]
+file = "patchouli_books/custom_guide_book/en_us/entries/main/sharks.json"
+hash = "7e5eccfcc2488ebf2bdb2cde1b92ce4117c7a85ec8b54a48905c94c2dc5d9ea7"
 
 [[files]]
 file = "shaderpacks/complementary-reimagined.pw.toml"
