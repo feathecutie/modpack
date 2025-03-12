@@ -9,6 +9,10 @@ file = "config/gravestone-server.toml"
 hash = "d06d422097625b3479c55638123d5714989fd5a608e01b70dbe2faecdcda16bd"
 
 [[files]]
+file = "config/instrumentus-common.toml"
+hash = "124705c2b26ad89403acf0069f0c76c2cca5bfaca55fd37a681506140b08c449"
+
+[[files]]
 file = "config/keybindhider.json"
 hash = "178114d07a35524ef6696f557dbbc573bc6b4f0e7d694da6d96fa5d99a6c72de"
 
@@ -613,11 +617,6 @@ hash = "7750bf1c0a66c843a06f07bd0ed7157d14ff0958e19426aadaed6ecf3034af65"
 metafile = true
 
 [[files]]
-file = "mods/puzzle.pw.toml"
-hash = "708b91626dd1582effcd39c97c6f2edab0421a96097a94f26bb9a12bb54c637d"
-metafile = true
-
-[[files]]
 file = "mods/puzzles-lib.pw.toml"
 hash = "5c5c05a43cd40f175409ba8bb65bf09492b79a9d71e5dad95981b8e011d5182f"
 metafile = true
@@ -695,6 +694,16 @@ metafile = true
 [[files]]
 file = "mods/sodium.pw.toml"
 hash = "347cac2ed12c9bc0561b6a59eeb4c121b10e5f3f71d54e9bf8d1343af57ef5b8"
+metafile = true
+
+[[files]]
+file = "mods/sophisticated-backpacks.pw.toml"
+hash = "55dd892aa92eee1c15e2d6d7832fe36226548b181e8424130f320fb9668c0514"
+metafile = true
+
+[[files]]
+file = "mods/sophisticated-core.pw.toml"
+hash = "be7fdf2c6663446895d6424d9854edc944f27e9ead91afe0cb1d1d8c70f365b5"
 metafile = true
 
 [[files]]
