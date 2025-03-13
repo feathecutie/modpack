@@ -9,10 +9,6 @@ file = "config/gravestone-server.toml"
 hash = "d06d422097625b3479c55638123d5714989fd5a608e01b70dbe2faecdcda16bd"
 
 [[files]]
-file = "config/instrumentus-common.toml"
-hash = "124705c2b26ad89403acf0069f0c76c2cca5bfaca55fd37a681506140b08c449"
-
-[[files]]
 file = "config/keybindhider.json"
 hash = "178114d07a35524ef6696f557dbbc573bc6b4f0e7d694da6d96fa5d99a6c72de"
 
@@ -24,6 +20,11 @@ metafile = true
 [[files]]
 file = "config/paxi/datapacks/aether-temporary-freezing.pw.toml"
 hash = "b285592ef4dc43733fb7af4e062c08c36d5dba05d022172f9befdddb7ad1c828"
+metafile = true
+
+[[files]]
+file = "config/paxi/resourcepacks/better-leaves.pw.toml"
+hash = "fcf82349376d262a92a072501f628782dab401720b1225cf8b3cc9e39ce56413"
 metafile = true
 
 [[files]]
@@ -177,11 +178,6 @@ hash = "9a31384e891fd38ae4cdc606612eb6017cdc436cef194c22e58c36d8c942db90"
 metafile = true
 
 [[files]]
-file = "mods/controlify.pw.toml"
-hash = "a4f671d5effbe2f3c01e4c8592c4e0818902343f7783a22f32da00517235316a"
-metafile = true
-
-[[files]]
 file = "mods/controlling.pw.toml"
 hash = "e7ab61139edaca7ebf16131d8292a257e45b3dc1b027234ce2b4f0f27f850004"
 metafile = true
@@ -229,6 +225,11 @@ metafile = true
 [[files]]
 file = "mods/creeper-overhaul.pw.toml"
 hash = "cd4c4ec6ef26d2b61e0cb0bdd398e8d528b88ebf739fc0898bc8cb2f7a88debb"
+metafile = true
+
+[[files]]
+file = "mods/cull-leaves.pw.toml"
+hash = "a6448a229fe0cb53a4042f8b16b41d1986316376ace55c8cf126cb61c29d417e"
 metafile = true
 
 [[files]]
@@ -312,11 +313,6 @@ hash = "c1906ec6fbc8fb86dae0ae64ce88b0769f2ee42fd9951ddc0f532f3e6eed56e7"
 metafile = true
 
 [[files]]
-file = "mods/every-compat.pw.toml"
-hash = "aab519914e7600e622145fda7fccc7484d6e068f95caed91b93406b1b7141098"
-metafile = true
-
-[[files]]
 file = "mods/exposure.pw.toml"
 hash = "20858413ee40b335e9d06fe485d7ec7f50397158aae53db6a24d15c997d493ff"
 metafile = true
@@ -392,11 +388,6 @@ hash = "32ae660626d91a73a70a83d6c5be17fbb0b42e4f7e9bee694c5ee674aef97cd8"
 metafile = true
 
 [[files]]
-file = "mods/instrumentus.pw.toml"
-hash = "ad7e5e6de9aeec8e7af52e2c73f2e3db654e5d90cc29806a5764ed855198c762"
-metafile = true
-
-[[files]]
 file = "mods/iris.pw.toml"
 hash = "c3c06a4839ecfd4717686f7394396a4fc66b7a2e8eabbdd51f23ab2a1099cc1e"
 metafile = true
@@ -464,11 +455,6 @@ metafile = true
 [[files]]
 file = "mods/lithium.pw.toml"
 hash = "0fb9b58c17adaf54255401dad1f6f7ff4d1971c42d0f1658dea4ca2171932089"
-metafile = true
-
-[[files]]
-file = "mods/lithostitched.pw.toml"
-hash = "a859b2f6265d5160e052d00659e4bf2ec3e307856c707110caaf9f83439c9f2c"
 metafile = true
 
 [[files]]
@@ -712,11 +698,6 @@ hash = "dbfc9aa1442ee8975bccc78834e17ddadc9bd74a8951a009ee8c03713ebd4830"
 metafile = true
 
 [[files]]
-file = "mods/structory-towers.pw.toml"
-hash = "060889eeeb499eabeb57e293e61c1504616908b2b0e15fc584a26a3e847734c5"
-metafile = true
-
-[[files]]
 file = "mods/structory.pw.toml"
 hash = "0c1ed682dc86868fb25c5ea6ec2d2c60e4b590e1b00ec4d92d45d88c3b005a48"
 metafile = true
@@ -724,11 +705,6 @@ metafile = true
 [[files]]
 file = "mods/structurize.pw.toml"
 hash = "cb1521ea17987d9d7e142277d985c9350636345e2f9d1056d9758280a50e7d44"
-metafile = true
-
-[[files]]
-file = "mods/tectonic.pw.toml"
-hash = "e103e134083c1f541cf3142483cc781b1985a3f21fd7bce3d6cd1788e683902d"
 metafile = true
 
 [[files]]
