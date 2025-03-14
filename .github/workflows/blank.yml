@@ -32,7 +32,7 @@ jobs:
       - name: Export modpack
         run: nix-shell -p packwiz --run "packwiz mr export"
 
-      - uses: actions/export-artifact@v4
+      - uses: actions/upload-artifact@v4
         with:
           name: meow.mrpack
           path: "*.mrpack"
