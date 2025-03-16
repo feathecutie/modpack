@@ -1,0 +1,13 @@
+name = "Create: Vibrant Vaults"
+filename = "create_vibrant_vaults-0.3.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/hddN8ksR/versions/PGgd2NRM/create_vibrant_vaults-0.3.1.jar"
+hash-format = "sha512"
+hash = "883daa521a27be270e903a6979416862a8ced1edd3365ce16420c13864f03984947f7fb997addebbdea84606a7ec3ad9d1710b71f6eddf34e2e86c612a0c7cae"
+
+[update]
+[update.modrinth]
+mod-id = "hddN8ksR"
+version = "PGgd2NRM"
