@@ -23,11 +23,6 @@ hash = "b285592ef4dc43733fb7af4e062c08c36d5dba05d022172f9befdddb7ad1c828"
 metafile = true
 
 [[files]]
-file = "config/paxi/resourcepacks/better-leaves.pw.toml"
-hash = "fcf82349376d262a92a072501f628782dab401720b1225cf8b3cc9e39ce56413"
-metafile = true
-
-[[files]]
 file = "config/paxi/resourcepacks/create-waystones-texture-+-gui.pw.toml"
 hash = "9e77cd5c9c9b584c44ed4be0fe93aaaf8777a20720e918364cac065fa24eeeda"
 metafile = true
@@ -225,11 +220,6 @@ metafile = true
 [[files]]
 file = "mods/creeper-overhaul.pw.toml"
 hash = "cd4c4ec6ef26d2b61e0cb0bdd398e8d528b88ebf739fc0898bc8cb2f7a88debb"
-metafile = true
-
-[[files]]
-file = "mods/cull-leaves.pw.toml"
-hash = "a6448a229fe0cb53a4042f8b16b41d1986316376ace55c8cf126cb61c29d417e"
 metafile = true
 
 [[files]]
