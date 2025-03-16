@@ -6,6 +6,12 @@
 - have less structures maybe? idk if there are too many
 - maybe rethink terrain generation
 
+## Download latest release
+
+The modpack is currently automatically built using a reaaaally crappy github action, but it works for now^^
+
+[download link](https://nightly.link/feathecutie/modpack/workflows/blank/main)
+
 ## Building/Exporting
 
 ### `.mrpack` (Modrinth)
@@ -19,3 +25,19 @@ packwiz mr export
 ```sh
 packwiz cf export
 ```
+
+## Adding a mod
+
+### From Modrinth
+
+```sh
+packwiz mr add <slug/name/id of mod (e.g. "create")>
+```
+
+### From Curseforge
+
+```sh
+packwiz cf add <slug/name/id of mod (e.g. "create")>
+```
+
+Check out the [packwiz documentation](https://packwiz.infra.link/) for more
