@@ -1,13 +1,13 @@
 name = "Reactive Alchemy"
-filename = "reactive-1.21.1-9.18.1.jar"
+filename = "reactive-1.21.1-9.18.3.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/soWqucCB/versions/SS85KaeN/reactive-1.21.1-9.18.1.jar"
+url = "https://cdn.modrinth.com/data/soWqucCB/versions/m4zvINvE/reactive-1.21.1-9.18.3.jar"
 hash-format = "sha512"
-hash = "cdec1958568577b77005e1858fee83482e412976f215d9c50e948d76a1bb27d97288bbf40e4e18f629077a8dbbd4100168da2893d2f400b0266d3071ca137f34"
+hash = "6c5a08299f9652fd02f923f060672efb742705f11d2c147aa83afae6bfa9edd80c1342868734e5a26d1ce95caa8231af97ed08c6cd4becad1f3a6330ffca92f9"
 
 [update]
 [update.modrinth]
 mod-id = "soWqucCB"
-version = "SS85KaeN"
+version = "m4zvINvE"

@@ -1,13 +1,13 @@
 name = "Jade 🔍"
-filename = "Jade-1.21.1-NeoForge-15.9.4.jar"
+filename = "Jade-1.21.1-NeoForge-15.10.0.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/nvQzSEkH/versions/ErF9rUGQ/Jade-1.21.1-NeoForge-15.9.4.jar"
+url = "https://cdn.modrinth.com/data/nvQzSEkH/versions/jBPaSUDN/Jade-1.21.1-NeoForge-15.10.0.jar"
 hash-format = "sha512"
-hash = "8337acc1cfb2168d7ed1bf2b34bc5c14c87d550334c3448902d8f1a629e4af65ba3a9d19551f29de1a836772077d9ae066749c8a662db5238e7a5c1590628e63"
+hash = "eb74140df7509fdb3677587def46eb5c9b83bdfabd077093dc9355bc3d29fdb7de5cd4e9df4cebcc5f455f758b529027b9f8cfc14c2e80dc1889ccb6434425d1"
 
 [update]
 [update.modrinth]
 mod-id = "nvQzSEkH"
-version = "ErF9rUGQ"
+version = "jBPaSUDN"
