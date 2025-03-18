@@ -26,6 +26,13 @@
             src = ./.;
             hooks = {
               nixfmt-rfc-style.enable = true;
+              ensure_bcc_version = {
+                enable = true;
+                name = "set correct version in bcc";
+                entry = ''${pkgs.lib.getExe pkgs.sd} 'modpackVersion = ".*?"' 'modpackVersion = "${(builtins.fromTOML (builtins.readFile ./pack.toml)).version}"' content/config/bcc-common.toml'';
+                pass_filenames = false;
+                files = "pack.toml";
+              };
               packwiz-refresh = {
                 enable = true;
                 name = "Packwiz refresh";
@@ -52,6 +59,8 @@
             pkgs.taplo
             pkgs.vscode-langservers-extracted
             pkgs.sd
+            pkgs.nodejs
+            pkgs.act
           ];
         };
       }

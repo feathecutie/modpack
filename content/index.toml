@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/bcc-common.toml"
+hash = "56ac52b4b0c84078622fe7b741db47a98021f34588dc38b727703afb259e2914"
+
+[[files]]
 file = "config/cumulus_menus-client.toml"
 hash = "375145dd6c3ad1554b4a0dfe8ca87d266e668a2d9e7775305edb6f7c6496df46"
 
