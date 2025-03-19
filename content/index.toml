@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/bcc-common.toml"
-hash = "56ac52b4b0c84078622fe7b741db47a98021f34588dc38b727703afb259e2914"
+hash = "ed0d9b4b95cad24be4bda1570af1f0cec8967e670298cda99c9df606d4cb398b"
 
 [[files]]
 file = "config/cumulus_menus-client.toml"
@@ -25,6 +25,14 @@ metafile = true
 file = "config/paxi/datapacks/aether-temporary-freezing.pw.toml"
 hash = "b285592ef4dc43733fb7af4e062c08c36d5dba05d022172f9befdddb7ad1c828"
 metafile = true
+
+[[files]]
+file = "config/paxi/datapacks/custom-fixes/data/c/tags/item/foods/dough.json"
+hash = "9dbfde1e9da04025464f0f416e9ffe197649a872905598adda34be5ea55e48f4"
+
+[[files]]
+file = "config/paxi/datapacks/custom-fixes/pack.mcmeta"
+hash = "ead5eb5fb6e46e5f2137a82df426c160692bf153270c1224cc28d134d8e7a499"
 
 [[files]]
 file = "config/paxi/resourcepacks/create-waystones-texture-+-gui.pw.toml"

@@ -6,6 +6,8 @@
       url = "github:cachix/git-hooks.nix";
       inputs.nixpkgs.follows = "nixpkgs";
     };
+
+    flake-compat.url = "https://flakehub.com/f/edolstra/flake-compat/1.tar.gz";
   };
   outputs =
     {
@@ -45,6 +47,12 @@
                 entry = ''${pkgs.lib.getExe pkgs.sd} 'side = "server"' 'side = "both"' '';
                 files = ''\.pw\.toml$'';
               };
+              version-stuff = {
+                enable = true;
+                name = "Ensure version update";
+                entry = "./version.nu";
+                pass_filenames = false;
+              };
             };
           };
         };
@@ -59,8 +67,7 @@
             pkgs.taplo
             pkgs.vscode-langservers-extracted
             pkgs.sd
-            pkgs.nodejs
-            pkgs.act
+            pkgs.semver-tool
           ];
         };
       }
