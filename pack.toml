@@ -1,12 +1,12 @@
 name = "Meow"
 author = "fea"
-version = "1.0.4"
+version = "1.0.5"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "./content/index.toml"
 hash-format = "sha256"
-hash = "ebeac4fae4c15200f8dd570a6adca7e9a80e6bc806724a8f159266c1a3e11e32"
+hash = "2e360811c4794b12fa5a305db6ac2679b8cb328294c57515e50d6813aba4844e"
 
 [versions]
 minecraft = "1.21.1"
