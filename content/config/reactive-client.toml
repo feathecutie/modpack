@@ -1,0 +1,3 @@
+[config]
+#Whether to show the sources of each Power in JEI. Disable this for a greater challenge.
+showPowerSources = false
